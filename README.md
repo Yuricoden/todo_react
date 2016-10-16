@@ -1,4 +1,4 @@
 # todo_react
 
-1.npm init 
-2.run 'webpack'
+1.npm install
+2.run node server.js
