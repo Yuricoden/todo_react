@@ -311,12 +311,12 @@
       <updated>1476468868435</updated>
       <workItem from="1476468871956" duration="3543000" />
       <workItem from="1476473467625" duration="18919000" />
-      <workItem from="1476526997308" duration="23097000" />
+      <workItem from="1476526997308" duration="23211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45559000" />
+    <option name="totallyTimeSpent" value="45673000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,6 +359,9 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
